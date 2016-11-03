@@ -1,0 +1,1 @@
+# centos_squid_dockerized
